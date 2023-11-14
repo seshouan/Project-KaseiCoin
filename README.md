@@ -14,7 +14,7 @@ Conversion app from various currencies to a fungible token that’s ERC-20 compl
 ![](Evidence/kaseicoin_deployer_contract.png)
 
 ### Deploy and Test the Crowdsale on a Local Blockchain
-(we did not cover MetaMask, so the video doesn't include it)<br>
+(we did not cover MetaMask, so the video doesn't include it. Also, the poor quality is due to the large compression required to keep the size small)<br>
 [Deployment Video](Evidence/kaseicoin_deployment.mov)
 
 ### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
